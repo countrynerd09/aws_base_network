@@ -1,12 +1,13 @@
 variable "aws_region" {
   description = "The region name to deploy into"
   type        = string
-  default     = "us-east-2"
+  default     = "us-west-2"
 }
 
 variable "profile" {
   description = "This is your AWS profile"
   type = string
+  default     = "default"
 }
 
 variable "subnet_count" {
