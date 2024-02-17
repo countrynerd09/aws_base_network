@@ -7,6 +7,7 @@
 4. You have an IDE installed such as Visual Studio Code
 5. The network configuration in this code must be deployed before the nomad-in-aws is deployed.  Nomad-in-aws deployment expects the network to be in place before execution.
 ## Pre-deployment Installation
+* Packer installation can be found at: https://developer.hashicorp.com/packer/downloads
 * Terraform installation can be found at: https://developer.hashicorp.com/terraform/downloads
 * AWS CLI installation can be found at: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 * Git installation can be found at: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
