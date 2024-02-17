@@ -1,6 +1,9 @@
 # Github directories
 .github/*
 
+# Github Apps
+sweep.yaml
+
 # Local .terraform directories
 **/.terraform/*
 
