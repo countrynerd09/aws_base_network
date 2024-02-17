@@ -1,3 +1,6 @@
+# Github directories
+.github/*
+
 # Local .terraform directories
 **/.terraform/*
 
